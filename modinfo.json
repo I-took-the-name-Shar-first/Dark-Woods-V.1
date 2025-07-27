@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "lost_and_damned",
+    "name": "Feralite",
+    "authors": [ "IV" ],
+    "description": "The hunger grows.",
+    "version": "TLG version",
+    "category": "misc_additions",
+    "dependencies": [ "tlg" ]
+  }
+]

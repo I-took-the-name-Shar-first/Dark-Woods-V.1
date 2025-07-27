@@ -1,0 +1,23 @@
+{
+  "type": "profession",
+  "id": "Feralite",
+  "name": { "male": "Feral Survivor", "female": "Feral Survivor" },
+  "description": "You spent the first week of the end of the world in a daze. Now, you are starting to wake up...",
+  "points": 0,
+  "traits": ["LOST", "DEFORMED2", "TERRIFYING", "PSYCHOPATH", "SCHIZOPHRENIC", "CARNIVORE" ],
+  "items": {
+    "both": {
+      "items": [
+        "jeans",
+        "socks",
+        "sneakers",
+        "mbag",
+        "longshirt",
+        "pockknife",
+{ "item": "makeshift_crowbar", "custom-flags": [ "auto_wield" ] }
+      ]
+    },
+    "male": [ "boxer_shorts" ],
+    "female": [ "bra", "panties" ]
+  }
+}
