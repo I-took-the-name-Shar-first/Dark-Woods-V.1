@@ -8,5 +8,4 @@
     "profession": true,
   "ignored_by": [ "ZOMBIE" ],
   "description": "Something inside of you died. Now, the living fear you, while the dead mostly ignore you. Good luck.",
-  "starting_trait": true
 }
